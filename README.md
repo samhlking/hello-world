@@ -15,7 +15,6 @@ This text is ***really important***.
 ### Some More Syntax
 
 Regular text is easy to add.
-So is adding line breaks.
 
 So is adding a new paragraph.
 
